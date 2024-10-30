@@ -571,30 +571,38 @@ body {
   transform: rotate(65deg);
 }
 .ks {
-  top: 10210px;
-  left: 1022px;
+  top: 10235px;
+  left: 1110px;
   z-index: 9;
   font-size: 110px;
   color: white;
-  transform: rotate(-160deg);
+  transform: rotate(-174deg);
 }
 .kpp {
-  top: 10162px;
-  left: 922px;
+  top: 10216px;
+  left: 1009px;
   z-index: 9;
   font-size: 110px;
   color: white;
-  transform: rotate(-144deg);
+  transform: rotate(-159deg);
 }
 .ke {
-  top: 10100px;
-  left: 860px;
+  top: 10178px;
+  left: 938px;
   z-index: 9;
   font-size: 110px;
   color: white;
-  transform: rotate(-130deg);
+  transform: rotate(-142deg);
 }
 .kcc {
+  top: 10120px;
+  left: 849px;
+  z-index: 9;
+  font-size: 110px;
+  color: white;
+  transform: rotate(-132deg);
+}
+.k3i {
   top: 10030px;
   left: 794px;
   z-index: 9;
