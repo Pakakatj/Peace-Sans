@@ -208,9 +208,20 @@ body {
   font-weight: 700px;
   text-align: center;
   line-height: 175px;
-  text-indent: 35px;
+  text-indent: 1px;
   color: white;
   position: relative;
+}
+.konec2 {
+  top: 4680px;
+  left: 15px;
+  z-index: 9;
+  font-size: 126px;
+  font-weight: 700px;
+  text-align: center;
+  line-height: 175px;
+  text-indent: 15px;
+  color: white;
 }
 .section-3 .zagolovki {
   top: 4904px;
